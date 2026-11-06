@@ -1,0 +1,6 @@
+{
+  "name": "Neon Tank Arena",
+  "description": "Gerçek zamanlı çok oyunculu 2D neon tank arena savaşı. Arkadaşlarınızla anında oda kodu veya açık lobi üzerinden son tank hayatta kalana kadar kapışın.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
